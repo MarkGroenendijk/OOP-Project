@@ -23,3 +23,4 @@ Run `maven install` ([Intellij](https://www.jetbrains.com/help/idea/2016.3/getti
 Run `maven site`
 
 Bas Volkers
+Mark Groenendijk
